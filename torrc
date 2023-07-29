@@ -1,0 +1,3 @@
+SocksPort 9050
+RunAsDaemon 1
+ControlPort 9051
